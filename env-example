@@ -1,0 +1,7 @@
+
+# Mongodb
+MONGODB_URL="mongodb://localhost/entrevista"
+
+# Express
+EXPRESS_PORT=3000
+EXPRESS_ROUTE="/api/v1"

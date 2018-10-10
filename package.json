@@ -1,0 +1,23 @@
+{
+  "name": "entrevista-infoprop",
+  "version": "1.0.0",
+  "description": "entrevista de emprego",
+  "main": "app.js",
+  "repository": "git@github.com:ojaspion/entrevista-infoprop.git",
+  "author": "Higor Diego <higordiegoti@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto": "^1.0.1",
+    "csvtojson": "^2.0.8",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.2",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.0",
+    "winston": "^3.1.0"
+  }
+}
