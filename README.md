@@ -43,7 +43,7 @@ Criar uma .env com base no arquivo env-example
 # Start Project
 Instalar os node_modules
 
-` yarn i`
+` yarn install`
 
 Ter na maquina o mongodb e iniciar o mesmo.
 `sudo mongod`
