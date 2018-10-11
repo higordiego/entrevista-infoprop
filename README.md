@@ -1,7 +1,7 @@
-# entrevista-infoprop
+# Entrevista de Freelancer
 
 
-# O DESAFIO
+## O DESAFIO
 -------------------------------------------------------------------------------------------------
 O desenvolvedor da InfoProp será responsável pelo desenvolvimento da plataforma
 web, assim como o seu banco de dados, sua API, e suas funcionalidades para
@@ -16,7 +16,7 @@ Se tiver qualquer dúvida, pode entrar em contato com qualquer um de nós:
 Boa sorte =D
 
 
-# BACK END
+## BACK END
 -------------------------------------------------------------------------------------------------
 O nosso stack é feito com base em node.js e consiste em uma API REST de
 comunicação e um banco de dados na AWS.
@@ -37,10 +37,10 @@ Campos importantes para criação da API são:
     ● data
     
     
-# Init Project
+## Init Project
 Criar uma .env com base no arquivo env-example
 
-# Start Project
+## Start Project
 Instalar os node_modules
 
 ` yarn install`
@@ -51,6 +51,6 @@ Ter na maquina o mongodb e iniciar o mesmo.
 Dar o start no projeto 
 ` npm start `
 
-# Rota Principal
+## Rota Principal
 A porta referente a sua configuração da env.
 `http://localhost:${port}`
